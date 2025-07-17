@@ -1,0 +1,35 @@
+
+.form-control:focus{
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #34b7a7;
+}
+
+@media screen and (max-width:768px){
+  .contact-items .col-md-4{
+    margin: auto;
+    max-width: 80vw;
+   }
+   h1{
+    font-size: 42px;
+   }
+}
+.btn{
+  background: #34b7a7;
+  font-weight: bold;
+  color: #1d685f;
+}
+.btn:hover{
+  background: #34b7a7;
+  border: none;
+  outline: none;
+
+}
+.info-wrap .section-title h2{
+  font-size: 18px;
+}
+.info-wrap p span{
+  color: #34b7a7;
+  font-weight: bold;
+}
+.info-wrap p a{
+  color: black;
+}
