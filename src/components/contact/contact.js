@@ -75,7 +75,7 @@ const Contact = () => {
 				        			<span className="fa fa-map-marker"></span>
 				        		</div>
 				        		<div className="text ps-3">
-					            <p><span>Address:</span> Trimuri Chowk, Dhanakwadi ,Pune-411043</p>
+					            <p><span>Address:</span> Nakshtra Colony ,Gangapur Road ,Nashik-422013</p>
 					          </div>
 				          </div>
 				        	<div className="w-100 my-2 d-flex align-items-center">
@@ -83,7 +83,7 @@ const Contact = () => {
 				        			<span className="fa fa-phone"></span>
 				        		</div>
 				        		<div className="text ps-3">
-					            <p><span>Phone:</span> <a href="tel:08698648377">+91 8698648377</a></p>
+					            <p><span>Phone:</span> <a href="tel:08080301532">+91 8080301532</a></p>
 					          </div>
 				          </div>
 				        	<div className=" w-100 my-2 d-flex align-items-center">
@@ -91,7 +91,7 @@ const Contact = () => {
 				        			<span className="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div className="text ps-3">
-					            <p><span>Email:</span> <a href="mailto:kolhem10@gmail.com">kolhem10@gmail.com</a></p>
+					            <p><span>Email:</span> <a href="mailto:vaishno1702@gmail.com">vaishno1702@gmail.com</a></p>
 					          </div>
 				          </div>
 				        	<div className=" w-100 my-2 d-flex align-items-center">
@@ -99,7 +99,7 @@ const Contact = () => {
 				        			<span className="fa fa-globe"></span>
 				        		</div>
 				        		<div className="text ps-3">
-					            <p><span>Website:</span> <a href="https://630f48b04b042e13c46f2a00--mayurikolhe.netlify.app/">mayurikolhe.netlify.app/</a></p>
+					            <p><span>Website:</span> <a href="https://vaishnavimatsagar.vercel.app//">vaishnavimatsagar.vercel.app//</a></p>
 					          </div>
 				          </div>
 			          </div>
