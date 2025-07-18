@@ -29,7 +29,7 @@ export const experience = [
 		id:1,
 		designation : 'Web Developer Intern',
 		company : 'Codevertex',
-		period : 'July,2022 - October,2022',
+		period : 'July,2023 - October,2023',
 		description : [ 
 		'As a intern, gained frontend and backend experience, contributed to site development and maintenance.',
 		'Contributed to the design and development of administrative systems, CRM solutions, and client-specific projects under the guidance of experienced professionals.',
