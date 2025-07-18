@@ -41,12 +41,12 @@ const Awards = () => {
       <div className="testimonial-item">
                 <img src="assets/img/testimonials/SIH_logo.png" className="testimonial-img" />
                 <h3>SIH  Winner</h3>
-                <h4>Applications for the IPR Maharashtra</h4>
+                <h4>Applications for the IPR Management For Gujrat Government</h4>
               </div>
       </SwiperSlide>
       <SwiperSlide>
       <div className="testimonial-item">
-                <img src="assets/img/portfolio/Winjit.jpeg" className="testimonial-img" />
+                <img src="assets/img/portfolio/winjit.jpeg" className="testimonial-img" />
                 <h3>Winjit Hackathon Runner-Up</h3>
                 <h4>Trained a machine learning Model for the predictions </h4>
               </div>
