@@ -56,7 +56,7 @@ experience. </p>
               </div>
               <div className="col-md-6" data-aos="fade-right">
                 <ul>
-                  <li><i className="bi bi-rounded-right"></i> <strong>Age:</strong> 20</li>
+                  <li><i className="bi bi-rounded-right"></i> <strong>Age:</strong> 21</li>
                   <li><i className="bi bi-rounded-right"></i> <strong>Degree:</strong> Pursuing Bachelors</li>
                   <li><i className="bi bi-rounded-right"></i> <strong>Email: </strong> vaishno1702@gmail.com</li>
                   <li><i className="bi bi-rounded-right"></i> <strong>Freelance:</strong> Available</li>
