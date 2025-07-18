@@ -43,7 +43,7 @@ experience. </p>
           
           <h3>Software Developer</h3>
             <p className="fst-italic my-3">
-            I'm a 20-year-old Computer Science student with a keen interest in software development and machine learning. I'm deeply passionate about continuously acquiring knowledge in emerging technologies
+            I'm a 21-year-old Computer Science student with a keen interest in software development and machine learning. I'm deeply passionate about continuously acquiring knowledge in emerging technologies
             </p>
             <div className="row content">
               <div className="col-md-6" data-aos="fade-right">
